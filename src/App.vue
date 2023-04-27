@@ -151,15 +151,15 @@ export default {
     bottom: 4px;
     right: 20px;
     opacity: 0;
-    transition: all 1.5s;
+    transition: all 1.2s;
   }
   .container:hover .main-icon{
     width: 2px;
     height: 2px;
     right: 0;
     opacity: 1;
-    transform: translateX(100%);
   }
+  
   /* header区域input框 */
   #header_input{
     width: 220px;
